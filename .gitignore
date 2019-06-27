@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 large-dataset/
+crime-data-in-brazil/
