@@ -105,3 +105,4 @@ venv.bak/
 
 large-dataset/
 crime-data-in-brazil/
+*.html
